@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrikcepr
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React, NextJs, TypeScript
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning React, Next.js, TypeScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: patrik.cepr@gmail.com
 
